@@ -25,7 +25,6 @@ Situations:
 * Early-stage player evaluation  
 * Remote scouting and performance comparison  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Football_in_Hong_Kong.jpg" width="400">
 
 
 ## Data sources and AI methods
